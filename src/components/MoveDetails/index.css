@@ -1,0 +1,30 @@
+.additional-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.disclaimar {
+  font-weight: bold;
+}
+
+.cap-icon {
+  margin-right: 0px;
+}
+
+.inventory-inner-container {
+  display: flex;
+  margin-left: 25px;
+}
+
+.number {
+  background-color: #ec5541;
+  color: white;
+  border-radius: 25px;
+  height: 25px;
+  margin-top: 10px;
+  width: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 15px;
+}
